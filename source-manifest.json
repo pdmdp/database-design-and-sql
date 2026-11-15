@@ -1,0 +1,27 @@
+[
+  {
+    "path": "01-relational-design/report.pdf",
+    "source_filename": "A1_535298.pdf",
+    "sha256": "fa1a314baeec9d37ef1023ef2fe1a78334fbb01b64dc9acb7ee8ffe4021c3860"
+  },
+  {
+    "path": "01-relational-design/er-diagram.png",
+    "source_filename": "Assignment1.drawio (1).png",
+    "sha256": "a7505ac4f175393a51be99a491fa4d4d7d20551f53c4c22b619327d891d65fe7"
+  },
+  {
+    "path": "02-queries/queries.sql",
+    "source_filename": "Assignement2.sql",
+    "sha256": "5d76108855da3b11f8e091d76e07712aa0f8a686cb8eed8084e4f7805f92ab08"
+  },
+  {
+    "path": "03-data-warehouse/report.pdf",
+    "source_filename": "Assignment3_final.pdf",
+    "sha256": "a9085e5a689b82038ce7e0c736a3d6dd7817b3368c64785103110cacf6021e2d"
+  },
+  {
+    "path": "03-data-warehouse/measures.sql",
+    "source_filename": "ass_3.sql",
+    "sha256": "3a37f5110b3562711a7e86dd71e0ba6947a271a1d302e1494ea0723d0aab4326"
+  }
+]
